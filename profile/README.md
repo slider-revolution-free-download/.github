@@ -1,4 +1,4 @@
-#Revolution Slider Free Download – Build Stunning WordPress Animations
+# Slider Revolution Free Download – Build Stunning WordPress Animations
 
 Looking for a way to make your website stand out? With **Revolution Slider**, you can create high-impact sliders, dynamic hero sections, interactive carousels, and full-page animations — all without writing a single line of code.
 
